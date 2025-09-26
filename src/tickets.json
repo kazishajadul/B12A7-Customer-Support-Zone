@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": "#0001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Payment attempted with Visa ending 1234; keeps failing despite sufficient balance",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-20T09:00:00Z"
+  },
+  {
+    "id": "#0002",
+    "title": "Payment Failed - Card Declined",
+    "description": "Payment attempted with Visa ending 1234; keeps failing despite sufficient balance",
+    "customer": "Sarah Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-21T10:30:00Z"
+  },
+  {
+    "id": "#0003",
+    "title": "Unable to Download Invoice",
+    "description": "Cannot download January invoice from billing section",
+    "customer": "Michael Brown",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2025-09-22T14:20:00Z"
+  },
+  {
+    "id": "#0004",
+    "title": "Incorrect Billing Address",
+    "description": "Billing address shows old city even after update",
+    "customer": "Emily Davis",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-23T08:15:00Z"
+  },
+  {
+    "id": "#0005",
+    "title": "App Crash on Launch",
+    "description": "Mobile app crashes immediately on Android 13",
+    "customer": "David Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-23T12:45:00Z"
+  },
+  {
+    "id": "#0006",
+    "title": "Refund Not Processed",
+    "description": "Refund requested two weeks ago not received",
+    "customer": "Sophia Taylor",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2025-09-24T09:30:00Z"
+  },
+  {
+    "id": "#0007",
+    "title": "Two-Factor Authentication Issue",
+    "description": "2FA codes not received on registered phone",
+    "customer": "James Anderson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-24T11:00:00Z"
+  },
+  {
+    "id": "#0008",
+    "title": "Unable to Update Profile Picture",
+    "description": "Upload failed error when updating profile picture",
+    "customer": "Grace",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-24T14:10:00Z"
+  },
+  {
+    "id": "#0009",
+    "title": "Subscription Auto-Renewal",
+    "description": "Customer wants auto-renewal but toggle is disabled",
+    "customer": "Liam Thomas",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2025-09-25T08:00:00Z"
+  },
+  {
+    "id": "#0010",
+    "title": "Missing Order Confirmation Email",
+    "description": "Order placed but no confirmation email received",
+    "customer": "Isabella Garcia",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-25T10:20:00Z"
+  }
+]
